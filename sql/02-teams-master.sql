@@ -1,0 +1,14 @@
+INSERT INTO teams VALUES ('RCB', 'Royal Challengers Bangalore');
+INSERT INTO teams VALUES ('RPS', 'Rising Pune Supergiants');
+INSERT INTO teams VALUES ('SRH', 'Sunrisers Hyderabad');
+INSERT INTO teams VALUES ('CSK', 'Chennai Super Kings');
+INSERT INTO teams VALUES ('GL', 'Gujarat Lions');
+INSERT INTO teams VALUES ('RR', 'Rajasthan Royals');
+INSERT INTO teams VALUES ('DC', 'Deccan Chargers');
+INSERT INTO teams VALUES ('KKR', 'Kolkata Knight Riders');
+INSERT INTO teams VALUES ('MI', 'Mumbai Indians');
+INSERT INTO teams VALUES ('DCI', 'Delhi Capitals');
+INSERT INTO teams VALUES ('PWI', 'Pune Warriors');
+INSERT INTO teams VALUES ('KXIP', 'Kings XI Punjab');
+INSERT INTO teams VALUES ('KTK', 'Kochi Tuskers Kerala');
+INSERT INTO teams VALUES ('DD', 'Delhi Daredevils');
