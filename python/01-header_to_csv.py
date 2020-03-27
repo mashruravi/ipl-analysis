@@ -19,7 +19,7 @@ team_id_mapping = {
     'Rising Pune Supergiants': 'RPS',
     'Rising Pune Supergiant': 'RPS',
     'Sunrisers Hyderabad': 'SRH',
-    'Chennai Super Kings', 'CSK',
+    'Chennai Super Kings': 'CSK',
     'Gujarat Lions': 'GL',
     'Rajasthan Royals': 'RR',
     'Deccan Chargers': 'DC',
